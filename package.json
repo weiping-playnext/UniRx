@@ -1,0 +1,16 @@
+{ 
+	"name": "com.wonderplanet.unirx", 
+    "displayName": "UniRx", 
+    "version": "7.1.0", 
+    "unity": "2018.3", 
+    "description": "UniRx", 
+    "keywords": [ "package", "unity", "Rx" ], 
+    "dependencies": {}, 
+    "category": "", 
+    "repository": 
+    { 
+        "type": "git", 
+        "url": "https://github.com/neuecc/UniRx", 
+        "revision": "7.1.0" 
+    }
+}
